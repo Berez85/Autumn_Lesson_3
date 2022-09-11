@@ -1,0 +1,150 @@
+* {
+	color: rgb(0, 238, 255);
+}
+
+#a{
+	color: orange;
+}
+
+.title {
+	color: darkblue;
+}
+
+.text-one + p{
+	color: darkcyan;
+}
+
+.text-two {
+	color: darkgray;
+}
+
+.text-three {
+	color: darkgreen;
+}
+
+.subtitle-one {
+	color: darkkhaki;
+}
+
+.text-four {
+	color: cadetblue;
+}
+
+.subtitle-two {
+	color: darkmagenta;
+}
+
+.text-five {
+	color: darkred;
+}
+
+.subtitle-three {
+	color: darkolivegreen;
+}
+
+.text-six {
+	color: darksalmon;
+}
+
+.text-seven {
+	color: aliceblue;
+}
+
+.subtitle-four {
+	color: violet;
+}
+
+.text-eight {
+	color: navy;
+}
+
+.text-nine {
+	color: gold;
+}
+
+.subtitle-five {
+	color: navajowhite;
+}
+
+.text-ten {
+	color: maroon;
+}
+
+.text-eleven {
+	color: yellowgreen;
+}
+
+.text-description ~ p {
+	color: rgb(206, 253, 129);
+}
+
+.text-thirteen {
+}
+
+.text-fourteen {
+}
+
+.text p{
+	color: peru;
+}
+
+.text-fifteen {}
+
+.text-sixteen {}
+
+.text-seventeen {}
+
+.blocks.texts span{
+	color: red;
+}
+
+.text-eighteen {}
+
+.text-nineteen {}
+
+.block-choice > p{
+	color: khaki;
+}
+
+.text-twenty {}
+
+.text.thirty {
+	color: mediumslateblue;
+}
+
+.text.forty {
+	color: khaki;
+}
+
+div.block {
+	color: chartreuse;
+}
+
+.list {
+	color: darkviolet;
+}
+
+.xsmall {
+	color: firebrick;
+}
+
+.small {
+	color: forestgreen;
+}
+
+.medium {
+	color: aqua;
+}
+
+.large {
+	color: chocolate;
+}
+
+.xlarge {
+	color: burlywood;
+}
+
+.xxlarge {
+	color: aquamarine;
+}
+
